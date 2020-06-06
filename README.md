@@ -113,7 +113,7 @@ npm start
 
 ## Insomnia
 
-Para testar o projeto *"Be The Hero"*, instale o [Insomnia](https://insomnia.rest/) ou execute via docker container [docker-insomnia](https://github.com/camiloariza/docker-insomnia).
+Para testar o projeto *"Ecoleta"*, instale o [Insomnia](https://insomnia.rest/) ou execute via docker container [docker-insomnia](https://github.com/camiloariza/docker-insomnia).
 
 ### Agradecimentos
 
