@@ -36,7 +36,7 @@ As seguintes tecnologias foram utilizadas no projeto:
 * Clonar este repositório
 
 ```
-git clone git@github.com:mafda/nlw-ecoleta.git
+git clone git@github.com:mafda/nlw_ecoleta.git
 ```
 
 ### Back-end
@@ -44,7 +44,7 @@ git clone git@github.com:mafda/nlw-ecoleta.git
 * Entre no repositório
   
 ```
-cd nlw-ecoleta/server
+cd nlw_ecoleta/server
 ```
 
 * Run
@@ -65,7 +65,7 @@ npm run dev
 * Entre no repositório
   
 ```
-cd nlw-ecoleta/web
+cd nlw_ecoleta/web
 ```
 
 * Run
@@ -84,7 +84,7 @@ npm start
 * Entre no repositório
   
 ```
-cd nlw-ecoleta/mobile
+cd nlw_ecoleta/mobile
 ```
 
 * Run
